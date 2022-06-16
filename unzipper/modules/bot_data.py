@@ -63,11 +63,11 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
+Hi **{}**, I'm **TeleRoid Unzipper Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TeleRoidGroup**
     """
 
     HELP_TXT = """
@@ -88,15 +88,15 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
     """
 
     ABOUT_TXT = """
-**About Nexa Unzipper Bot,**
+**About TeleRoid Unzipper Bot,**
 
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)
-✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)
+✘ **Source Code:** [/Unzipper-Bot](https://t.me/KDramasFlix)
+✘ **Developer:** [Predator](https://github.com/PredatorHackerzZ)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheTeleRoid**
     """
 
     LOG_TXT = """
@@ -139,7 +139,7 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
 **ERROR:** {}
 
 
-**Please report this at @Nexa_bots if you think this is a serious error**
+**Please report this at @TeleRoid14 if you think this is a serious error**
     """
 
     CANCELLED_TXT = """
